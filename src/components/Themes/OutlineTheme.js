@@ -3,7 +3,6 @@ const OutlineTheme = ({ config }) => {
     const { title, bgColor, author, icon, font, customIcon, platform } = config;
 
     return (
-        <div className="p-4 bg-white ">
 
 
             <div className={`overflow-y-hidden rounded flex flex-col text-gray-800 px-10  ${platform} `}
@@ -35,8 +34,6 @@ const OutlineTheme = ({ config }) => {
 
             </div>
 
-
-        </div>
     );
 }
 
