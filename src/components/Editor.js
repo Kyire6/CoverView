@@ -21,14 +21,14 @@ import theme7 from '../assets/images/theme7.webp'
 const defaultIcon = { 'label': 'react', 'value': 'react' }
 
 const defaultSettings = {
-	title: "A begineers guide to frontend development",
+	title: "前端开发的初学者指南",
 	bgColor: "#949ee5",
 	pattern: "",
 	download: "PNG",
-	author: 'Rutik Wankhade',
+	author: 'Luo Jun Jie',
 	icon: defaultIcon,
 	devIconOptions: [defaultIcon],
-	font: 'font-Anek',
+	font: 'font-sans',
 	theme: 'background',
 	customIcon: '',
   platform: 'hashnode'
